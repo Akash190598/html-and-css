@@ -1,0 +1,61 @@
+.overall {
+  height: 100%;
+  width: 800px;
+  margin: 0 auto;
+}
+#body {
+  background-color: black;
+}
+.name {
+  padding-left: 0px;
+  color: white;
+  padding-bottom: 0;
+}
+.designation {
+  color: white;
+  margin-top: 0;
+}
+.about {
+  background-color: rgb(102, 202, 235);
+}
+.company,
+.contact,
+.location,
+.base,
+.project,
+.Education {
+  font-weight: bolder;
+}
+.first {
+  width: 253px;
+  padding-left: 20px;
+  display: inline-block;
+}
+.second {
+  width: 253px;
+  display: inline-block;
+}
+.third {
+  width: 253px;
+  display: inline-block;
+}
+
+.aboutme {
+  text-transform: uppercase;
+  padding-left: 20px;
+  font-weight: bolder;
+  padding-top: 20px;
+}
+.secondsec {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: rgb(102, 202, 235);
+}
+.text {
+  padding-left: 10px;
+}
+.end {
+  padding-left: 70px;
+  font-family: Georgia;
+  padding-bottom: 20px;
+}

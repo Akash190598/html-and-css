@@ -1,0 +1,89 @@
+h1,
+h2,
+h3,
+h4 {
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-size: 22px;
+}
+.overall {
+  width: 1200px;
+  margin: 0 auto;
+}
+article {
+  width: 825px;
+  float: left;
+}
+aside {
+  width: 300px;
+  float: right;
+}
+p {
+  font-family: sans-serif;
+  line-height: 1.5;
+  font-size: 18px;
+}
+
+h4,
+footer p {
+  text-align: center;
+}
+.li {
+  font-size: 20px;
+}
+footer p {
+  font-style: italic;
+  font-size: 16px;
+  color: black;
+  background-color: rgb(40, 139, 20);
+}
+#heading {
+  font-size: larger;
+}
+.post-header {
+  position: relative;
+  display: inline;
+}
+.related_course {
+  width: 300px;
+  list-style: disc;
+  background-color: azure;
+  border-top: 5px solid rgb(20, 162, 228);
+  border-bottom: 5px solid rgb(20, 162, 228);
+}
+body header {
+  background-color: rgb(245, 245, 245);
+}
+
+nav a:link:hover {
+  background-color: red;
+}
+nav,
+nav a:link {
+  text-align: center;
+  margin: 10px;
+  color: black;
+}
+#title {
+  text-align: center;
+}
+
+a:visited {
+  color: rgb(73, 15, 231);
+}
+a :hover {
+  display: "https://www.google.com";
+}
+#footer {
+  margin-top: 50px;
+  clear: both;
+}
+
+button {
+  padding: 5px;
+  cursor: pointer;
+  font-size: larger;
+  position: absolute;
+  bottom: 10px;
+  right: 30px;
+}
